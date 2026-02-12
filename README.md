@@ -1,4 +1,4 @@
-# Hi 👋, Sohj short for Josh hehe
+# Hi 👋, I'm sohj short for Josh hehe
 
 🎓 BS Information Technology graduate passionate about building user-friendly web apps and learning modern full-stack development.
 
