@@ -1,14 +1,14 @@
-# Hi 👋, I'm Joshua Abellera
+# Hi 👋, Sohj short for Josh hehe
 
 🎓 BS Information Technology graduate passionate about building user-friendly web apps and learning modern full-stack development.
 
 ### A passionate Front-End Developer exploring full-stack web development (MERN)
 
-- 🔭 I'm currently working on **some stuff... y-yeah**
+- 🔭 I'm currently working on **some a lot of stuff... y-yeah trust me**
 
-- 📫 How to reach me: [carlojoshua.abellera.ph@gmail.com](mailto:carlojoshua.abellera.ph@gmail.com)
+- 📫 How to reach me: [carlojoshua.abellera.ph@gmail.com](mailto:carlojoshua.abellera.ph@gmail.com) [for work related stuff]
 
-- 🌐 Portfolio: [sohj-abellera.github.io/portfolio](https://sohj-abellera.github.io/portfolio/)
+- 🌐 Portfolio: [sohj-abellera.github.io/portfolio](https://sohj-abellera.github.io/portfolio/)  [currently fixing it rn]
 
 - 📄 Resume: [View on Google Drive](https://drive.google.com/file/d/1ei1N2hqDNsFyFrKtXbyIFQ4TC7heKwAj/view?usp=sharing)
 
