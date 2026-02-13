@@ -4,7 +4,7 @@
 
 ### A passionate Front-End Developer exploring full-stack web development (MERN)
 
-- 🔭 I'm currently working on **some a lot of stuff... y-yeah trust me**
+- 🔭 I'm currently working on **a lot of stuff... y-yeah trust me**
 
 - 📫 How to reach me: [carlojoshua.abellera.ph@gmail.com](mailto:carlojoshua.abellera.ph@gmail.com) [for work related stuff]
 
